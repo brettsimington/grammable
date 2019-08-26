@@ -79,3 +79,6 @@ end
 
 # simple form
 gem 'simple_form'
+
+# device for auth
+gem 'devise'
