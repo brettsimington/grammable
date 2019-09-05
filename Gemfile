@@ -85,7 +85,7 @@ gem 'simple_form'
 gem 'devise'
 
 # gem for carrierwave picture uploading
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', github:'carrierwaveuploader/carrierwave'
 
 #Figaro gem
 gem "figaro"
