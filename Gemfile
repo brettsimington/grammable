@@ -86,3 +86,9 @@ gem 'devise'
 
 # gem for carrierwave picture uploading
 gem 'carrierwave', '~> 2.0'
+
+#Figaro gem
+gem "figaro"
+
+#fog aws
+gem "fog-aws"
