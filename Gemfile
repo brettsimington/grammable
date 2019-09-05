@@ -83,3 +83,6 @@ gem 'simple_form'
 
 # device for auth
 gem 'devise'
+
+# gem for carrierwave picture uploading
+gem 'carrierwave', '~> 2.0'
